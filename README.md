@@ -1,4 +1,4 @@
-# Handwritten-Digit-Recognition-CNN-Flask-App-
+# Handwritten-Digit-Recognition
 A Convolutional Neural Network model created using PyTorch library over the MNIST dataset to recognize handwritten digits . <br />
 
 The dataset can be downloaded from here : <br />
@@ -23,4 +23,4 @@ The handwritten digit recognition system is a way to tackle this
 problem which uses the image of a digit and recognizes the
 digit present in the image.
 
-![](digit_demo.gif)
+
