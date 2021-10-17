@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognition
 submitted by : shruti agrawal (101803061)<br/>
-A Convolutional Neural Network model is created using PyTorch library over the MNIST dataset to recognize handwritten digits . <br />
+A Convolutional Neural Network model is created using PyTorch library over the MNIST dataset to recognize handwritten digits . A flask app is made .<br />
 
 The dataset can be downloaded from here : <br />
 https://drive.google.com/drive/folders/1z4iFh1gJiRS3BpdzhYwf9tZGbh__CDNg?usp=sharing <br />
